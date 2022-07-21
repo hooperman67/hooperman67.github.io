@@ -1,0 +1,37 @@
+
+Jobs for summer
+
+Late August, given heavy rain and sun
+For a full week, the blackberries would ripen.
+At first, just one, a glossy purple clot
+Among others, red, green, hard as a knot.
+You ate that first one and its flesh was sweet
+Like thickened wine: summer's blood was in it
+Leaving stains upon the tongue and lust for
+Picking. Then red ones inked up and that hunger
+Sent us out with milk cans, pea tins, jam-pots
+Where briars scratched and wet grass bleached our boots.
+Round hayfields, cornfields and potato-drills
+We trekked and picked until the cans were full
+Until the tinkling bottom had been covered
+With green ones, and on top big dark blobs burned
+Like a plate of eyes. Our hands were peppered
+With thorn pricks, our palms sticky as Bluebeard's.
+We hoarded the fresh berries in the byre.
+But when the bath was filled we found a fur,
+A rat-grey fungus, glutting on our cache.
+The juice was stinking too. Once off the bush
+The fruit fermented, the sweet flesh would turn sour.
+I always felt like crying. It wasn't fair
+That all the lovely canfuls smelt of rot.
+Each year I hoped they'd keep, knew they would not.
+
+Seamus Heaney
+
+<strong>Pruning</strong>
+
+Deciduous shrubs that flower in late winter, spring and early summer need annual pruning to encourage strong, healthy shoots and improve flowering. Annual pruning also prolongs the life of these early-flowering shrubs.
+
+Once the flowers and foliage become untidy from late summer onwards, shear off and new foliage will appear
+
+<Strong>Winter Jasmine<Strong>
