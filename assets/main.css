@@ -51,3 +51,18 @@ div.content {
     text-align: center;
     float: none;
   }
+  
+  /* JEKYLL CSS */
+
+.jekyll-header {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 48px;
+  margin-bottom: 0px;
+  color: #04AA6D;
+}
+
+.jekyll-header:hover {
+  color: #008000;
+}
+
