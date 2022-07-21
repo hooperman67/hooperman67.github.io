@@ -52,17 +52,21 @@ div.content {
     float: none;
   }
   
+  a {
+  text-decoration: none;
+  color: #558B2F;
+  
   /* JEKYLL CSS */
-
-.jekyll-header {
+   
+ .jekyll-header {
   text-align: center;
   text-decoration: underline;
   font-size: 48px;
   margin-bottom: 0px;
   color: #04AA6D;
-}
+ }
 
-.jekyll-header:hover {
+ .jekyll-header:hover {
   color: #008000;
-}
+ }
 
