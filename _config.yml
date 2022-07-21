@@ -41,7 +41,7 @@ defaults:
     values:
       layout: "post"
       author:
-      avatar: assets/profile-sm.png
+      avatar: assets/img/hooperman.png
   - scope:
       path: ""
       type: notes
