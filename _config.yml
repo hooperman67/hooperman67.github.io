@@ -1,1 +1,5 @@
+title: My little Haven
 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hooperman67.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository:
