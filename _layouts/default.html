@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+
+{%- include head.html -%}
+  
+<body>
+<div class="sidebar">
+  <a class="active" href="{{site.url}}">Home</a>
+  <a href="{{site.url}}/notes">Notes</a>
+  <a href="/categories">Catagories</a>
+  <a href="/tags">Tags</a>
+    <a href="/archive">Archives</a>
+</div>
+
+<div class="content">
+            <div>
+                <h1>
+                    <a class="jekyll-header" href="/">Welcome to {{site.title}}</a>
+                </h1>
+                {%- include search.html -%}
+            </div>
+            <div>
+                {{ content }}
+                {%-include footer.html -%}
+
+            </div>
+  
+  
+</div>
+
+</body>
+</html>
