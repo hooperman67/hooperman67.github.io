@@ -10,7 +10,7 @@ category: summer
 ---
 An herbaceous perennial forming a clump of softly hairy, light green leaves with scalloped and toothed edges. Small, bright yellow flowers are borne in large sprays just above the foliage
 
-<img class="pure-image-responsive" src="{{{site.url}}//assets/img/ladys-mantle.jpg" alt="Alchemilla mollis"/>
+<img class="pure-image-responsive" src="{{{site.url}}/assets/img/ladys-mantle.jpg" alt="Alchemilla mollis"/>
 
 <strong>Cultivation</strong>
 
