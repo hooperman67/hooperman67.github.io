@@ -5,7 +5,7 @@ date: 2022-07-18
 tags:
   - perennial
 author: hooperman
-avatar: assets/img/common/andrew-avatar.png
+avatar: assets/img/hooperman.png
 category: summer
 ---
 An herbaceous perennial forming a clump of softly hairy, light green leaves with scalloped and toothed edges. Small, bright yellow flowers are borne in large sprays just above the foliage
