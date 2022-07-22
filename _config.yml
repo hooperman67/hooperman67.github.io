@@ -55,7 +55,6 @@ defaults:
       layout: journal-entry
       content-type: journals
 
-
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
 collections:
