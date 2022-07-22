@@ -48,7 +48,7 @@ defaults:
     values:
       layout: post
       content-type: notes
-   - scope:
+  - scope:
       path: ""
       type: journals
     values:
