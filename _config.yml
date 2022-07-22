@@ -48,6 +48,12 @@ defaults:
     values:
       layout: post
       content-type: notes
+   - scope:
+      path: ""
+      type: journals
+    values:
+      layout: journal-entry
+      content-type: journals
 
 
 # Allows all pages to be put into `_pages` folder
