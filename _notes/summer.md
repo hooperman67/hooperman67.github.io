@@ -1,4 +1,6 @@
-
+---
+tags: summer
+---
 Jobs for summer
 
 > Late August, given heavy rain and sun
