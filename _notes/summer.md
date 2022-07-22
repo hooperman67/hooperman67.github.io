@@ -30,7 +30,9 @@ Seamus Heaney
 
 <strong>Pruning</strong>
 
-Deciduous shrubs that flower in late winter, spring and early summer need annual pruning to encourage strong, healthy shoots and improve flowering. Annual pruning also prolongs the life of these early-flowering shrubs.
+Deciduous shrubs that flower in late winter, spring and early summer need annual pruning to encourage strong, healthy shoots and improve flowering.
+
+Annual pruning also prolongs the life of these early-flowering shrubs.
 
 Once the flowers and foliage become untidy from late summer onwards, shear off and new foliage will appear
 
