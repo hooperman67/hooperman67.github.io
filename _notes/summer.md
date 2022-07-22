@@ -1,5 +1,6 @@
 ---
 tags: summer
+category: summer
 ---
 Jobs for summer
 
