@@ -11,6 +11,7 @@ category: summer
 Jasminum officinale is a large deciduous climbing shrub, leaves pinnate, with 7-9 ovate leaflets.
 
 Scented white flowers 2cm in width open in clusters of 3 to 5
+
 <img class="pure-image-responsive" src="{{{site.url}}/assets/img/summerjasmine.jpg" alt="summer jasmine"/>
 
 # Cultivation
