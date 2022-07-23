@@ -10,7 +10,6 @@ category: summer
 ---
 
 Tellmann's honeysuckle
-
 A twining deciduous climber to 5m tall, with dark green, oblong leaves white beneath, and terminal clusters of tubular orange flowers 5cm long, often red-tinted, in late spring and summer
 
 <img class="pure-image-responsive" src="{{{site.url}}/assets/img/honeysuckle.jpg" alt="honeysuckle"/>
