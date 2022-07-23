@@ -6,6 +6,8 @@ rose 'Alchymist'
 
 A climbing rose to 3m with thorny stems and rich green foliage, bronze when young, bearing abundant, highly fragrant, very-double, quartered blooms, yellow with bright apricot-orange tints, produced in summer
 
+<img class="pure-image-responsive" src="{{{site.url}}/assets/img/alchemist.jpg" alt="Rosa Alchemist"/>
+
 # flowering period
 
 June - September
