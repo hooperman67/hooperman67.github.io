@@ -1,3 +1,0 @@
----
-youtubeId: gNiOW1kBNGo
----
