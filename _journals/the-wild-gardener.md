@@ -11,7 +11,7 @@ Whether you want to make your whole garden into a wildlife habitat or just make 
 
 In the first episode that takes us through his first year, Colin starts the hard landscaping, clearing the garden as well as digging a pond.
 
-[![The Wild Gardener 2021 episode 1](wildgardener1.jpg)](https://www.youtube.com/watch?v=4Hqg82jcrpI "The Wild Gardener 2021 episode 1")
+[![The Wild Gardener 2021 episode 1](/assets/img/wildgardener1.jpg)](https://www.youtube.com/watch?v=4Hqg82jcrpI "The Wild Gardener 2021 episode 1")
 
 In the second episode we follow Colin through his second year and a hard Winter of work in the garden before an abundant Spring and Summer of wildlife.
 
@@ -21,4 +21,4 @@ In the second episode we follow Colin through his second year and a hard Winter 
 [![The Wild Gardener 2021 episode 3](/assets/img/wildgardenerepisode3.jpg)](https://www.youtube.com/watch?v=_l50JKybues "The Wild Gardener 2021 episode 3")
 
 
-[![The Wild Gardener 2021 episode 4](assets/img/wildgardener4.jpg)](https://www.youtube.com/watch?v=8XFnEHBQaVc "The Wild Gardener 2021 episode 4")
+[![The Wild Gardener 2021 episode 4](/assets/img/wildgardener4.jpg)](https://www.youtube.com/watch?v=8XFnEHBQaVc "The Wild Gardener 2021 episode 4")
